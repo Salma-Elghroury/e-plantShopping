@@ -64,5 +64,16 @@ Follow these steps to run the project locally on your machine:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_GITHUB_USERNAME/e-plantShopping.git](https://github.com/YOUR_GITHUB_USERNAME/e-plantShopping.git)
+
+2. **Install project dependencies:**
+
+   ```Bash
+   npm install
+   Start the local development server:
+
+3.**Run the Project:**
+
+   ```Bash
+   npm run dev
    cd e-plantShopping
 Verify that all functionalities work correctly before final submission.
